@@ -1,0 +1,64 @@
+
+{
+    
+    height:100%
+    
+
+
+}
+
+
+
+
+body{
+    background-image: linear-gradient(to right, #D9501E, #732002, #D98014, #F2A922, #323E40);
+    font-size: 1.2em;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+    
+    
+}
+
+main{
+
+    background-color: white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px black;
+    width: 600px;
+    padding: 10px;
+    margin: auto;
+
+}
+
+h1{
+    color: #732002;
+    text-align:center
+}
+
+h2{
+
+    background-color:#F2A922;
+    border-radius: 10px;
+    width: fit-content
+    
+    
+
+}
+
+h2:hover{
+    
+    background-color: #F2A922;
+    border-radius: 10px;
+    box-shadow:10px 1px 1px  #F2A922;
+    padding: 5px;
+    width: fit-content
+    
+
+    
+
+    
+}
+
+a:hover{
+    padding: 5px;
+}
